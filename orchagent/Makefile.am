@@ -95,6 +95,7 @@ orchagent_SOURCES = \
             request_parser.cpp \
             vrforch.cpp \
             countercheckorch.cpp \
+            statmonitororch.cpp \
             vxlanorch.cpp \
             tunneltermhelper.cpp \
             vnetorch.cpp \
